@@ -2,7 +2,7 @@
 
 Une application web pour parier sur les compétitions e-sportives, avec gestion des utilisateurs et dashboard admin.
 
-⚠️ Avertissement : Ce code n'est pas de la meilleure qualité et peut contenir des bugs ou des fonctionnalités incomplètes. J'ai dû tout recommencer dimanche après-midi à cause d'un imprévu (mon ancien projet ne fonctionne plus du tout et je ne sais pas pourquoi), ce qui a limité le temps disponible pour aboutir à une version stable ou élégante.( je vais continuer de travailler dessus pour rendre qqch le plus complet possible dans le temps qui m'es imparti!
+⚠️ Avertissement : Ce code n'est pas de la meilleure qualité et peut contenir des bugs ou des fonctionnalités incomplètes (ne fonctionne pas). J'ai dû tout recommencer dimanche après-midi à cause d'un imprévu (mon ancien projet ne fonctionne plus du tout et je ne sais pas pourquoi), ce qui a limité le temps disponible pour aboutir à une version stable ou élégante, je m'excuse déjà de la qualité du code, qui est très loin d'être bonne, vu qu'il a été fait dans la panique.( je vais continuer de travailler dessus pour rendre qqch le plus complet possible dans le temps qui m'est imparti!)
 
 
 ## 🔹 Fonctionnalités principales
